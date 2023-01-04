@@ -7,7 +7,7 @@ package z.student.list;
 
 /**
  *
- * @author galibahmed jan, 2023
+ * @author galibahmed -jan, 2023
  */
 public class PratTimeStudent {
     
